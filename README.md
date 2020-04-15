@@ -16,6 +16,9 @@ The objective of this workshop is to provide a practitioner's guide to challenge
 
 There is abundance of online training (online training in Coursera, Data Camp, O'Reilly Online, A Cloud Guru, Udemy), books & articles (medium, blog posts) and code (For AWS SageMaker only, there are hundreds of Sample Notebooks from every imaginable use case, ML domain). So how is this workshop different? We aim to bring together theory & practice, as well as datasets (both small ones, to try out quickly, but also large ones to demonstrate big data related challenges) for an architectural perspectives.
 
+Areas covered: 
+
+
 - **Data Engineering:** You will explore various examples of  Data Exploration, Feature Engineering & Data Cleaning using popular frameworks on python using a Jupyter Notebook (pandas, numPy, SeaBorn etc.). Since these frameworks are suitable for small-datasets (KB's, to single digit GBs, or to double digit GBs in extreme cases with very strong instances), they are suitable for working on a subset of the actual datasets. You will also experiment with big data analytics services can be used for data engineering, explorary data analytics; and how data is carried over from the data lake storage to compute clusters using S3. Services covered are: Amazon Athena - a Presto/HIVE based service for Ad-HoC analytics, Glue for Data Catalog Management and S3 for Data Lake Storage.  
     
 - **ML Training**: You will train various supervised learning algorithms for regression & classification (For Regression: Decision Trees, For Classification: Logistic Regression & Artificial Neural Networks based Image Classification). You will observe how to do parallel ML training in the cloud on clusters to achieve scale.  
