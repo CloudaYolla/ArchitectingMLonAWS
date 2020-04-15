@@ -68,7 +68,8 @@ This material is a Level 300 document. It assumes basic experince on AWS (S3, IA
 1. [Module5 ML Modeling SL Binary Classification on Bank Direct Marketing Dataset](Module5_ML_Modeling_SL_BinClassfcn_Bank_Direct_Marketing.ipynb) 
 1. [Module6.1 ML Model Optimization Bank Direct_Marketing Hyper Paramerer Tuning](Module6_1_ML_Model_Optimization_Bank_Direct_Marketing_HyperParamTuning.ipynb) 
 1. [Module6.2 ML Model Optimization Analyze HyperParameter Tuning](Module6_2_ML_Model_Optimization_Analyze_HyperParamTuning.ipynb) 
-1. [Module 7 ML Model Deployment into Production for Batch & Real-Time Predictions](architectingMLonAWS/mod7-deploy-scikit-byom/scikit_bring_your_own.ipynb) 
+1. [Module 7 ML Model Deployment into Production for Batch & Real-Time Predictions](mod7-deploy-scikit-byom/Module7_ML_Model_Deployment_BYOM_Batch_RealTime_SciKit.ipynb) 
+
 
 
 
