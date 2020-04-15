@@ -59,12 +59,12 @@ This material is a Level 300 document. It assumes basic experince on AWS (S3, IA
 
 ## Workshop Outline
 
-1. [Module 1 AWS ML Workshop_Outline](Module1_AWSML_Introduction.ipynb) 
+1. [Module 1 AWS ML Outline](Module1_AWSML_Outline.ipynb) 
 1. [Module 2 Local Data Engineering on Bike Sharing Dataset](Module2_Local_Data_Engineering_Bike_Sharing.ipynb)
 1. [Module 3 Local Modeling Supervised Learning Regression on Bike Sharing Dataset](Module3_Local_Modeling_SL_Regression_Bike_Sharing.ipynb) 
 1. [Module4 Big Data Engineering Amazon on Reviews Dataset](Module4_Big_Data_Engineering_Amazon_Reviews.ipynb) 
 1. [Module5 ML Modeling SL Binary Classification on Bank Direct Marketing Dataset](Module5_ML_Modeling_SL_BinClassfcn_Bank_Direct_Marketing.ipynb) 
-1. [Module6.1 ML Model Optimization Bank Direct_Marketing Bayesian](Module6_1_ML_Model_Optimization_Bank_Direct_Marketing_Bayesian.ipynb) 
+1. [Module6.1 ML Model Optimization Bank Direct_Marketing Hyper Paramerer Tuning](Module6_1_ML_Model_Optimization_Bank_Direct_Marketing_HyperParamTuning.ipynb) 
 1. [Module6.2 ML Model Optimization Analyze HyperParameter Tuning](Module6_2_ML_Model_Optimization_Analyze_HyperParamTuning.ipynb) 
 1. [Module 7 ML Model Deployment into Production for Batch & Real-Time Predictions](architectingMLonAWS/mod7-deploy-scikit-byom/scikit_bring_your_own.ipynb) 
 
@@ -111,5 +111,15 @@ As described here: https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-work
     
 
 
+### 10. Cleaning up resources 
 
+**Very Important:** SageMaker Notebooks run on EC2, and therefore you will be billed by the second unless you save your work (by downloading to your local computer) & terminate the SageMaker notebook instance. 
+
+Please 
+ 1. download the notebook (if you did any changes) to your computer by selecting ` File -> Download as -> Notebook (.ipynb)`. 
+ 1. Terminate this instance. Remember that you can always recreate it from the `AWS SageMaker Console` again.
+ 1. Delete also SageMaker Endpoints
+ 
+ 
+ Thank you.
 
