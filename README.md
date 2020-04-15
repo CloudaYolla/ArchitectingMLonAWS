@@ -7,7 +7,8 @@ Architecting Machine Learning on AWS: A Practitioner’s Guide to Production-Gra
 PA1, 2020-04-14, @akirmak: Initial version
 `
 
-*Welcome to the Architecting Machine Learning on AWS with SageMaker workshop.*
+*Welcome to the Architecting Machine Learning on AWS using SageMaker workshop.*
+
 
 ## Overview
 
