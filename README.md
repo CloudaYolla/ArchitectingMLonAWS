@@ -72,7 +72,7 @@ Unlike the conventional ML workshop formats, we didn't pursue a single algorithm
 
 ## Workshop Outline
 
-1. [Module 1 AWS ML Outline](Module1_AWSML_Outline.ipynb) 
+1. [Module 1 AWS ML Outline](Module1_AWSML_Introduction.ipynb) 
 1. [Module 2 Local Data Engineering on Bike Sharing Dataset](Module2_Local_Data_Engineering_Bike_Sharing.ipynb)
 1. [Module 3 Local Modeling Supervised Learning Regression on Bike Sharing Dataset](Module3_Local_Modeling_SL_Regression_Bike_Sharing.ipynb) 
 1. [Module4 Big Data Engineering Amazon on Reviews Dataset](Module4_Big_Data_Engineering_Amazon_Reviews.ipynb) 
